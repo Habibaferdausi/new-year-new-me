@@ -4,10 +4,10 @@
 
 .banner {
   background-image: url("images/banner2.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 100vh;
+  background-size:cover;
+  background-repeat:no-repeat;
+  width:100%;
+  height:100vh;
 }
 .banner-des {
   text-align: right;
@@ -63,7 +63,7 @@
 }
 
 .content{
-  padding: 100px;
+  padding: 60px;
 }
 
 .title{
@@ -126,7 +126,7 @@
   text-align: left;
   font-family: "Work Sans", sans-serif;
   font-size: 43px;
-  margin-right: 320px;
+  width: 60%;
 }
 footer{
   display: flex;
