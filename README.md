@@ -1,7 +1,7 @@
 # New Year New Me
 
 This is basically a self webpage. Here is some goals and some plans....
-Here I use HTML5 and Vanila CSS . This is just a website Home Page design
+Here I used HTML5 and Vanila CSS . This is just a website Home Page design from a figma file
 
 
 ## Features
