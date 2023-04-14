@@ -12,4 +12,4 @@ Here I use HTML5 and Vanila CSS . This is just a website Home Page design
 - Contact info
 
 ## 🔗 Links
-[New Year New Me]
+[New Year New Me](https://habibaferdausi.github.io/new-year-new-me/)
